@@ -1,4 +1,5 @@
 #This script takes image stacks of single nuclei over time with labelled nuclear periphery markers as inputs
+#Authors Adib Keikhosravi and Kate Miroshnikova
 import numpy as np
 import time, os, sys
 from skimage import io
