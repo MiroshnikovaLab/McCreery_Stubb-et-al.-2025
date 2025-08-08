@@ -1,4 +1,4 @@
-#This script takes image stacks of single nuclei with marked nuclear periphery markers as inputs
+#This script takes image stacks of single nuclei over time with labelled nuclear periphery markers as inputs
 import numpy as np
 import time, os, sys
 from skimage import io
